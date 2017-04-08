@@ -1,0 +1,26 @@
+{
+  "name": "shimuldas72/contact7_admin",
+  "description": "Yii2 form module",
+  "version": "1.0.0.0",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "gallery",
+    "module"
+  ],
+  "authors": [
+    {
+      "name": "shimuldas72",
+      "email": "shimuldas72@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+          "shimuldas72\\forms\\": ""
+      }
+  }
+}
