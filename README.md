@@ -11,7 +11,6 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist shimuldas72/yii2-contact7 "dev-master"
 composer require --prefer-dist shimuldas72/contact7_admin "dev-master"
 
 ```
